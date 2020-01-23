@@ -1,4 +1,9 @@
 # AVISO
+Trabalho do nPITI / Laboratório de Instrumentação e Microeletrônica - LIME (302)
+
+- nPITI: https://labs.imd.ufrn.br/labs/nPITI/laboratorios/LIME
+- LIME: http://lime.imd.ufrn.br/
+
 Esta biblioteca encontra-se em desenvolvimento e podem ocorrer incosistências. Favor reportar os bugs na guia issues.
 
 ESTA BIBLIOTECA É DISTRIBUIDA DA FORMA QUE ESTÁ E NÃO É FORNECIDO QUAISQUER GARANTIAS SOBRE SUA UTILIZAÇÃO.
